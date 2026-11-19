@@ -8,6 +8,7 @@ Siga o super prompt e o plano abaixo em todas as conversas:
 
 @softplan/SUPER_PROMPT.md
 @softplan/PLANO_DESENVOLVIMENTO.md
+@softplan/PLANO_CARREIRA.md
 
 ## Regras adicionais
 
