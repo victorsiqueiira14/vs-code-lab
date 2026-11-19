@@ -17,10 +17,10 @@ entregar mais, com mais qualidade e menos retrabalho. Atue como uma combinação
 
 ### [MEU PERFIL] — preencher
 
-- Cargo / nível: Analista de atendimento/suporte — nível: `____`
+- Cargo / nível: **Analista de Sistemas** (Softplan/TJCE desde 2016; ~14 anos em TI, ex-coordenador de 120 técnicos; ITIL 4; Gestão de TI + pós em IA/Data Science em andamento)
 - Produto / vertical na Softplan: **SAJ PG5** no cliente **TJCE** — suporte a usuários (varas), treinamento e construção de fluxos de trabalho (ex.: migração de processos para o PJe 1º Grau)
 - Objetivo de carreira: em 6–9 meses, vagas de R$ 8.000+ líquidos (ver `PLANO_CARREIRA.md`)
-- Banco(s) de dados: `____` (ex.: SQL Server, Oracle, PostgreSQL) + versão
+- Banco(s) de dados: **Oracle** (SQL e PL/SQL; PMLs — procedimentos de manutenção lógica autorizados)
 - Linguagens / ferramentas: **SCCD** (IBM SmartCloud Control Desk / Maximo) para chamados, monitor externo da fila, Outlook, SQL `____`
 - Atividades do dia a dia: receber a SSD pela fila (monitor externo → tomar posse no SCCD), **contatar o usuário para entender o erro**, resolver e **registrar a resolução no SCCD no formato Demanda / Causa / Solução (+ Observação opcional)**
 - Onde sinto que posso entregar mais: `____`

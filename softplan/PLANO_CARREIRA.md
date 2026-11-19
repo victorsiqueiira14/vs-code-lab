@@ -5,33 +5,41 @@
 
 ## Ponto de partida (diagnóstico)
 
-**Hoje:** suporte ao **SAJ PG5** no cliente **TJCE** pela Softplan — atendimento a usuários
-(varas), treinamento, resolução de chamados no SCCD (Demanda/Causa/Solução) e construção de
-**fluxos de trabalho** no sistema.
+**Hoje (revisado após análise do currículo):** ~14 anos em TI. **Analista de Sistemas na
+Softplan/TJCE desde 2016** (SAJ PG5 e e-SAJ): suporte especializado, levantamento de requisitos,
+implantações (Ambiente de Inquéritos, e-Carta, CEJUSCs, CRAJUBAR, custódia, RJI), treinamento de
+1.500+ usuários, SQL Oracle/PL-SQL e PMLs. Antes: **coordenação de 120 técnicos** e SLAs (Caixa,
+2012–2015). Formação: Gestão de TI (concluída), pós em IA/Data Science (em andamento), ITIL 4.
+Projeto próprio: **SALT Hub** (app com IA + Cloudflare para chamados e SLA).
 
 | Pontos fortes | Pontos a desenvolver |
 |---|---|
-| Conhecimento de negócio jurídico/judiciário (raro e valioso) | Trabalho reativo (fila de chamados), pouco visível |
-| Comunicação com usuário final e treinamento | Profundidade técnica comprovável (SQL, dados, automação) |
-| Fluxos de trabalho = lógica de processos / BPM | Inglês |
-| Resolução de problemas com método (D/C/S) | Portfólio, LinkedIn e currículo orientados a resultado |
-| Já usa IA no trabalho | Métricas do próprio trabalho (números para o currículo) |
+| Domínio do negócio judiciário + 10 anos de sistema crítico | Mesmo cargo há 10 anos: currículo precisa mostrar evolução |
+| Requisitos e UX com resultado (30 → 9 cliques) | Muita "participação": deixar claro o **seu** papel |
+| Liderança real (120 técnicos) + ITIL + SLA | Inglês básico |
+| SQL Oracle/PL-SQL em produção | SALT Hub sem números nem demonstração pública |
+| Constrói solução com IA (SALT Hub) | Posicionamento difuso (título amplo demais) |
 
-## Trilha escolhida
+## Trilha escolhida (revisada)
 
-**Principal: Analista de Suporte N3 / Application Support / Analista de Sistemas** com SQL forte,
-automação e inglês → abre vagas nacionais melhores **e** vagas remotas internacionais (pagas em
-dólar), que é o caminho mais rápido para "furar a bolha".
+Não é preciso "subir de nível técnico do zero" — o perfil já é de **pleno/sênior**. O ganho vem de
+**posicionamento** + **inglês** + **provas** (SALT Hub, números).
 
-**Plano B (paralelo, mesma base): Analista de Dados / BI** (SQL + Power BI + noções de Python).
-
-Base comum às duas: **SQL + inglês + resultados mensuráveis**.
+1. **Principal: Analista de Sistemas / Negócios (Business Analyst) Sênior ou Product Owner** em
+   govtech, legaltech e empresas de software — requisitos, processos, implantação, SQL.
+2. **Alternativa forte: Coordenação de Service Desk / Service Delivery / Operações de TI** —
+   liderança de 120 técnicos + ITIL + SLA + SALT Hub.
+3. **Médio prazo (com inglês B2):** Business Analyst / Implementation Consultant / Application
+   Support remoto para empresas estrangeiras.
 
 ## Fases
 
 ### Meses 1–2 — Base
-- [ ] **SQL** do zero ao intermediário: SELECT, JOINs, GROUP BY, subqueries, CTEs, funções de janela.
-      Praticar 30 min/dia (SQLBolt, LeetCode SQL 50, HackerRank SQL).
+- [ ] **Currículo e LinkedIn reposicionados** (ver feedback do currículo): 2 páginas, título focado,
+      papel próprio em cada projeto, versão sem foto para vagas internacionais.
+- [ ] **SQL Oracle** do intermediário ao avançado: CTEs, funções analíticas, planos de execução,
+      PL/SQL. Praticar 3x/semana (LeetCode SQL 50, HackerRank SQL).
+- [ ] **SALT Hub como portfólio:** versão demonstrativa com dados fictícios + métricas de uso.
 - [ ] **Inglês**: rotina diária de 30–45 min (ver seção abaixo). Fazer teste de nível (EF SET, gratuito) no início.
 - [ ] **Registro de conquistas**: toda sexta, anotar em `softplan/notas/conquistas.md` (sem dados de cliente):
       problema, o que fez, resultado, número (ex.: "resolvi 32 chamados", "treinei 15 servidores").
